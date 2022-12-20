@@ -31,7 +31,7 @@
 
 ## Лабораторная работа №3
 
-1.  Настроить сеть в Сisco Packet Tracer. Packet Tracer
+1.  Настроить сеть в Сisco Packet Tracer.
 2.  Отчет по лабораторной работе доступен по ссылке: [Отчет](https://docs.google.com/document/d/12Hn48u37Vch44-WD0KLZbB-vArWVZkhsCA7x21DQOD0/edit)
 
 ## Подготовка к экзамену
